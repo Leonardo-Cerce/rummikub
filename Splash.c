@@ -10,7 +10,6 @@ void Splash(void)
 		printf("%s",imagem);
 	}
 	sleep(4);
-	printf("\n\n\n");
 	fclose(Arq);
 	system("cls");
 }

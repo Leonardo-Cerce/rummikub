@@ -4,3 +4,5 @@
 #include <unistd.h>
 
 void Splash(void);
+
+int Menu(void);
