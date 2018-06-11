@@ -7,7 +7,7 @@ int main(int argc, char const *argv[])
 	{
 		case 1:
 		{
-			printf("Entao voce quer jogar, nao eh mesmo? Pois nao vai.\n\n");
+			printf("Testando esse Atom aqui.\n\n");
 			system("pause");
 			break;
 		}
